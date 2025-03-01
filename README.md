@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Привет, я [Ильяс]!
 
-<!--
-**ilyas11m/ilyas11m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | 🔍 Intern QA Engineer
 
-Here are some ideas to get you started:
+💻 **Стек технологий:**  
+- ⚙️ **Backend:** Java | Spring Framework  
+- 🛢️ **Базы данных:** PostgreSQL  
+- 🤖 **Автотесты:** Python | Selenium  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Чем я занимаюсь?**  
+- Разрабатываю бэкенд-системы на **Spring** и **PostgreSQL**  
+- Пишу автотесты на **Python + Selenium**  
+- Постоянно учусь и совершенствую навыки в **разработке и тестировании**  
+
+📫 **Связаться со мной:**  
+[Telegram](#)
+
+---
+⚡ **Мой девиз:** _«Код должен работать, а тесты — это гарантия!»_ 🚀
