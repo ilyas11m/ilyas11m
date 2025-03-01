@@ -1,11 +1,12 @@
-# 👋 Привет, я Ильяс!
+# Привет, я Ильяс!
 
 ### 🚀 Backend Developer | 🔍 Intern QA Engineer
 
-💻 **Стек технологий:**  
-- ⚙️ **Backend:** Java | Spring Framework  
-- 🛢️ **Базы данных:** PostgreSQL  
-- 🤖 **Автотесты:** Python | Selenium  
+💻 **Стек технологий:**
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Java | Spring Framework  
+- **Базы данных:** PostgreSQL, Microsoft SQL Server  
+- **Автотесты:** Python | Selenium  
 
 🎯 **Чем я занимаюсь?**  
 - Разрабатываю бэкенд-системы на **Spring** и **PostgreSQL**  
